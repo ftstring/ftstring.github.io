@@ -1,4 +1,4 @@
-﻿#一点点说明
+﻿#说明
 
 这是[blog.wuchen.me](blog.wuchen.me)的代码：
 
