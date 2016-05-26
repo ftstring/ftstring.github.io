@@ -2,7 +2,7 @@
 layout:	post
 title: 生火做饭
 categories:	[blog]
-tags:	[About, 日常]
+tags:	[About]
 fullview:	true
 description: 今天，终于把个人博客这件事情捡了起来。
 ---
