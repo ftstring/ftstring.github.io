@@ -1,41 +1,19 @@
-dbyll
+吴晨's blog
 =====
 
-Open source stylish, minimalistic theme for jekyll.  
-Demo: http://dbtek.github.io/dbyll/
+## 博客开张
 
-## New
-- Dbyll for Ghost is now available. Get it [here](https://github.com/dbtek/dbyll-ghost) now.
-- :new: Check out [Paper](https://github.com/dbtek/paper), new Material Design Jekyll theme.
+终于有时间静下心来好好搞一搞自己的博客，正好也借此机会把自己之前的笔记都整理一下，温故一下自己感兴趣的知识。
 
-### Features
-- Responsive layout.
-- Supports tags and categories.
-- Social profile and bio of author.
-- Bootstrap based.
-- Glyphicon and Font-Awesome Icons.
-- Pagination.
-- Syntax highlighting with pygments.
-- Disqus comments.
-- :new: Custom sidebar background image.
+### 为什么写博客：
 
+* 印象笔记里已经记录了很多东西，需要好好整理一下。
+* 努力写一些高质量的东西出来，毕竟太糟糕的东西也拿不出手。
+* 系统地分析一些问题，如果碰巧能帮到某些同学就更好了。
+* 偶尔抽个风。
 
-### Download
-* [Download dbyll](https://github.com/dbtek/dbyll/archive/master.zip)
+> "鼓捣是进步的阶梯，但是记录才成就伟大。"——vision
 
-### Install
-- You need to have [ruby](https://www.ruby-lang.org/en/documentation/installation/) installed in your system.
-- Install bundler which helps in specifying and installing dependencies of any Ruby project. ```gem install bundler```
-- Go to the root of the repo and run this - ```bundle install```
-- Then - ```bundle exec jekyll serve```
-
-### Screenshots
-![dbyll-screenshot](assets/media/dbyll-ss.png)
-
-### License
+### Theme-License
 - [MIT](http://opensource.org/licenses/MIT)
-
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dbtek/dbyll/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
