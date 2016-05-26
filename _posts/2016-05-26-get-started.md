@@ -2,7 +2,7 @@
 layout:	post
 title: 生火做饭
 categories:	[blog]
-tags:	[About]
+tags:	[About, 日常]
 fullview:	true
 description: 今天，终于把个人博客这件事情捡了起来。
 ---
@@ -21,4 +21,3 @@ description: 今天，终于把个人博客这件事情捡了起来。
 > "鼓捣是进步的阶梯，但是记录才成就伟大。"——vision
 
 好啦，就此起锅。
-
